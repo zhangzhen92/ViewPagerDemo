@@ -1,0 +1,2 @@
+# ViewPagerDemo
+ViewPager无限左右循环Viewpager无限滚动，无论是两张还是两张以上都实现无缝连接。
